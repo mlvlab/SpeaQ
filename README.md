@@ -1,5 +1,6 @@
 [//]: # (# Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection)
 # Official Implementation of SpeaQ (CVPR 2024)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/groupwise-query-specialization-and-quality/scene-graph-generation-on-visual-genome)](https://paperswithcode.com/sota/scene-graph-generation-on-visual-genome?p=groupwise-query-specialization-and-quality)
 
 Official PyTorch implementation of "[Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection](https://arxiv.org/abs/2403.17709)" (CVPR 2024).
 > Jongha Kim*, Jihwan Park*, Jinyoung Park*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim.
