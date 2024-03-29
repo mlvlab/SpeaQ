@@ -119,24 +119,15 @@ SGG eval:    zR @ 20: 0.0123;    zR @ 50: 0.0304;    zR @ 100: 0.0463;  for mode
 SGG eval:    mR @ 20: 0.1011;    mR @ 50: 0.1508;    mR @ 100: 0.1760;  for mode=sgdet, type=Mean Recall.
 ```
 
-[//]: # (## Citations)
-
-[//]: # ()
-[//]: # (```)
-
-[//]: # (@inproceedings{kim2024groupwise,)
-
-[//]: # (  title={Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection},)
-
-[//]: # (  author={Kim, Jongha and Park, Jihwan and Park, Jinyoung and Kim, Jinyoung and Kim, Sehyung and Kim, Hyunwoo J},)
-
-[//]: # (  booktitle={CVPR},)
-
-[//]: # (  year={2024})
-
-[//]: # (})
-
-[//]: # (```)
+## Citations
+```
+@inproceedings{kim2024groupwise,
+      title={Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection}, 
+      author={Kim, Jongha and Park, Jihwan and Park, Jinyoung and Kim, Jinyoung and Kim, Sehyung and Kim, Hyunwoo J},
+      booktitle={CVPR},
+      year={2024},
+}
+```
 
 ## Acknowledgements
 This repository is built upon [Iterative Scene Graph Generation](https://github.com/ubc-vision/IterativeSG).
