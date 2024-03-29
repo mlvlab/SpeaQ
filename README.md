@@ -1,7 +1,7 @@
 [//]: # (# Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection)
 # Official Implementation of SpeaQ (CVPR 2024)
 
-Official PyTorch implementation of "Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection" (CVPR 2024).
+Official PyTorch implementation of "[Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection](https://arxiv.org/abs/2403.17709)" (CVPR 2024).
 > Jongha Kim*, Jihwan Park*, Jinyoung Park*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim.
 > 
 > Department of Computer Science and Engineering, Korea University 
