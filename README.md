@@ -94,7 +94,7 @@ To evaluate the model trained with SpeaQ, some modifications should be made to t
 2. Set ```OUTPUT_DIR``` to the directory containing the trained model checkpoint.
 3. Add ```--eval-only``` flag to the command.
 
-For convenience, we provide the checkpoint of the model trained with SpeaQ [here](https://drive.google.com/file/d/10H2-8Eb4QOJCnwaNujisjkxiSxuKySih/view?usp=drive_link).
+For convenience, we provide the checkpoint of the model trained with SpeaQ [here](https://drive.google.com/file/d/1TjqkySN8K51yCjWNfCoqk5eEr5kAGDiO/view).
 After unzipping the provided file (```speaq_checkpoints.zip```), the model can be evaluated using the following command:
 ```
 python train_iterative_model.py --resume --eval-only --num-gpus 4 --config-file configs/speaq_test.yaml \ 
